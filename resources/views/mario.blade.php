@@ -7,29 +7,40 @@
         <div class="row">
 
             <x-card 
-                imagen="assets/img/Mario/1.jpg"
+                imagen="assets/img/Mario/mario-odyssey-amiibo.jpg"
                 nombre="Mario"
                 precio="800"
             />
 
             <x-card 
-                imagen="assets/img/Mario/2.jpg"
+                imagen="assets/img/Mario/marioydestello-amiibo.jpg"
                 nombre="Luigi"
                 precio="750"
             />
 
             <x-card 
-                imagen="assets/img/Mario/3.jpg"
+                imagen="assets/img/Mario/luigi-amiibo.jpg"
                 nombre="Juan"
                 precio="900"
             />
 
             <x-card 
-                imagen="assets/img/Mario/4.jpg"
+                imagen="assets/img/Mario/toad-amiibo.jpg"
                 nombre="Daniel"
                 precio="450"
             />
 
+            <x-card 
+                imagen="assets/img/Mario/yoshi-amiibo.jpg"
+                nombre="Daniel"
+                precio="450"
+            />
+
+            <x-card 
+                imagen="assets/img/Mario/bowser-amiibo.jpg"
+                nombre="Daniel"
+                precio="450"
+            />
         </div>
     </div>
 </section>
