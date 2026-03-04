@@ -11314,3 +11314,29 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.mario-bg {
+    background-color: #e60012; 
+}
+
+.zelda-bg {
+    background-color: #1b5e20;
+}
+
+.pokemon-bg {
+    background-color: #ffcb05;
+}
+
+.mario-bg,
+.zelda-bg,
+.pokemon-bg {
+    background-image: none !important;
+}
+
+.card-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}

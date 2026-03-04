@@ -1,6 +1,5 @@
-@extends('layouts.app')
-@section('content')
-
+@extends('layouts.zelda')
+@section('zelda-content')
 <section class="page-section bg-light">
     <div class="container">
         <h2 class="text-center">Colección</h2>

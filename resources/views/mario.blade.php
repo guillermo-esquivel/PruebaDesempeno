@@ -1,5 +1,5 @@
-@extends('layouts.app')
-@section('content')
+@extends('layouts.mario')
+@section('mario-content')
 
 <section class="page-section bg-light">
     <div class="container">

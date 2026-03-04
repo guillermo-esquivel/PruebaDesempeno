@@ -1,5 +1,5 @@
-@extends('layouts.app')
-@section('content')
+@extends('layouts.pokemon')
+@section('pokemon-content')
 
 <section class="page-section bg-light">
     <div class="container">
