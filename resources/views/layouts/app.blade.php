@@ -24,13 +24,13 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/mario">Mario</a>
+                        <a class="nav-link" href="{{route('mario')}}">Mario</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/zelda">Zelda</a>
+                      <a class="nav-link" href="{{route('zelda')}}">Zelda</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/pokemon">Pokémon</a>
+                        <a class="nav-link" href="{{ route('pokemon') }}">Pokémon</a>
                     </li>
                 </ul>
             </div>

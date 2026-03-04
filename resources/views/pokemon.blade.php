@@ -1,0 +1,36 @@
+@extends('layouts.app')
+@section('content')
+
+<section class="page-section bg-light">
+    <div class="container">
+        <h2 class="text-center">Colección</h2>
+        <div class="row">
+            <x-card 
+                imagen="assets/img/Pokemon/1.jpg"
+                nombre="Lucario"
+                precio="800"  />
+            <x-card 
+                imagen="assets/img/Pokemon/2.jpg"
+                nombre="Fuecoco"
+                precio="750"  />
+            <x-card 
+                imagen="assets/img/Pokemon/3.jpg"
+                nombre="Lechonk"
+                precio="900"  />
+            <x-card 
+                imagen="assets/img/Pokemon/4.jpg"
+                nombre="Mew"
+                precio="450"  />
+            <x-card 
+                imagen="assets/img/Pokemon/5.jpg"
+                nombre="Ditto"
+                precio="800"  />
+            <x-card 
+                imagen="assets/img/Pokemon/6.jpg"
+                nombre="Mimikyu"
+                precio="750"  />
+        </div>
+    </div>
+</section>
+
+@endsection
