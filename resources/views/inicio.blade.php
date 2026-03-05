@@ -9,31 +9,23 @@
     </div>
 </header>
 
+
 <section class="page-section bg-light">
     <div class="container text-center">
-
         <div class="row">
 
             <div class="col-lg-4">
-                <a href="{{ route('mario') }}">
-                    <h3>Mario</h3>
-                </a>
+                <x-enlace-boton route="mario" title="Mario" image="assets/img/mario/vista-mario.png" />
             </div>
 
             <div class="col-lg-4">
-                <a href="{{ route('zelda') }}">
-                    <h3>Zelda</h3>
-                </a>
+                <x-enlace-boton route="zelda" title="Zelda" image="assets/img/zelda/vista-zelda.png" />
             </div>
 
             <div class="col-lg-4">
-                <a href="{{ route('pokemon') }}">
-                    <h3>Pokémon</h3>
-                </a>
+                <x-enlace-boton route="pokemon" title="Pokémon" image="assets/img/Pokemon/vista-pokemon.png" />
             </div>
-
         </div>
-
     </div>
 </section>
 
