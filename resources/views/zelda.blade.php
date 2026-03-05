@@ -28,6 +28,14 @@
                 imagen="assets/img/zelda/6.jpg"
                 nombre="Epona"
                 precio="750"  />
+            <x-card 
+                imagen="assets/img/zelda/7.jpg"
+                nombre="Goron"
+                precio="690"  />
+            <x-card 
+                imagen="assets/img/zelda/8.jpg"
+                nombre="Yunobo"
+                precio="470"  />
         </div>
     </div>
 </section>

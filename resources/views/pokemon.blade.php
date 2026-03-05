@@ -29,6 +29,14 @@
                 imagen="assets/img/Pokemon/6.jpg"
                 nombre="Mimikyu"
                 precio="750"  />
+            <x-card 
+                imagen="assets/img/Pokemon/7.jpg"
+                nombre="Chikorita"
+                precio="340"  />
+            <x-card 
+                imagen="assets/img/Pokemon/8.jpg"
+                nombre="Psyduck"
+                precio="890"  />
         </div>
     </div>
 </section>

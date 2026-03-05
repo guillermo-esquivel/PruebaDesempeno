@@ -1,4 +1,4 @@
-<div class="col-lg-4 text-center">
+<div class="col-lg-3 text-center">
 
     <img 
         src="{{ asset($imagen) }}" 
@@ -10,6 +10,6 @@
 
     <h4>{{ $nombre }}</h4>
 
-    <p>$ {{ $precio }}</p>
+    <p class="precio">$ {{ $precio }}</p>
 
 </div>

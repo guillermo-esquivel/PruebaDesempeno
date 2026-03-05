@@ -8,5 +8,5 @@ Route::get('/mario', [MarioController::class, 'index'])->name('mario');
 Route::get('/zelda', [ZeldaController::class, 'index'])->name('zelda');
 Route::get('/pokemon', [PokemonController::class, 'index'])->name('pokemon');
 Route::get('/', function () {
-    return view('welcome');
+    return view('inicio');
 });

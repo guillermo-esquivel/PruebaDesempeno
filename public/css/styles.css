@@ -11336,7 +11336,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 .card-img {
     width: 220px;
     height: 220px;
-    object-fit: cover;
+    object-fit: contain;
     display: block;
     margin: 0 auto;
+}
+
+.precio{
+    color: #b0000f;
 }
