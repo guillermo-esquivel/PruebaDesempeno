@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Nintendo Figuras</title>
+    <title>Figuras Nintendo</title>
     <!-- Bootstrap & estilos -->
     <link href="{{ asset('css/styles.css') }}" rel="stylesheet" />
     <!-- Font Awesome -->
@@ -16,7 +16,7 @@
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="/PruebaDesempeño/public">Nintendo Figuras</a>
+            <a class="navbar-brand" href="/PruebaDesempeño/public">Figuras Nintendo</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarResponsive">
                 Menu
@@ -24,7 +24,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{route('mario')}}">Mario</a>
+                        <a class="nav-link" href="{{route('mario')}}">Mario Bros</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="{{route('zelda')}}">Zelda</a>
@@ -41,7 +41,7 @@
     <!-- FOOTER -->
     <footer class="footer py-4 bg-light">
         <div class="container text-center">
-            <p>© 2026 Nintendo Figuras - Proyecto Laravel</p>
+            <p>© Figuras Nintendo 2026  - Proyecto Laravel</p>
         </div>
     </footer>
     <!-- Bootstrap JS -->
