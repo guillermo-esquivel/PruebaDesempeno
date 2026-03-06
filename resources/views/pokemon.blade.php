@@ -4,6 +4,7 @@
 <section class="page-section bg-light">
     <div class="container">
         <h2 class="text-center">Colección</h2>
+<br>
         <div class="row">
             <x-card 
                 imagen="assets/img/Pokemon/1.jpg"
@@ -36,6 +37,22 @@
             <x-card 
                 imagen="assets/img/Pokemon/8.jpg"
                 nombre="Psyduck"
+                precio="890"  />
+            <x-card 
+                imagen="assets/img/Pokemon/9.jpg"
+                nombre="Squirtle"
+                precio="120"  />
+            <x-card 
+                imagen="assets/img/Pokemon/10.jpg"
+                nombre="Growlithe"
+                precio="675"  />
+            <x-card 
+                imagen="assets/img/Pokemon/11.jpg"
+                nombre="Jigglypuff"
+                precio="890"  />
+            <x-card 
+                imagen="assets/img/Pokemon/12.jpg"
+                nombre="Totodile"
                 precio="890"  />
         </div>
     </div>

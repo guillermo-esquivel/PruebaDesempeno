@@ -22,7 +22,7 @@
                 precio="450"  />
             <x-card 
                 imagen="assets/img/zelda/5.jpg"
-                nombre="Toon Linl"
+                nombre="Toon Link"
                 precio="800"  />
             <x-card 
                 imagen="assets/img/zelda/6.jpg"
@@ -35,6 +35,22 @@
             <x-card 
                 imagen="assets/img/zelda/8.jpg"
                 nombre="Yunobo"
+                precio="470"  />
+            <x-card 
+                imagen="assets/img/zelda/9.jpg"
+                nombre="Bokoblin"
+                precio="470"  />
+            <x-card 
+                imagen="assets/img/zelda/10.jpg"
+                nombre="Tulin"
+                precio="470"  />
+            <x-card 
+                imagen="assets/img/zelda/11.jpg"
+                nombre="Majoras Mask Link"
+                precio="470"  />
+            <x-card 
+                imagen="assets/img/zelda/12.jpg"
+                nombre="Link Skyward"
                 precio="470"  />
         </div>
     </div>
