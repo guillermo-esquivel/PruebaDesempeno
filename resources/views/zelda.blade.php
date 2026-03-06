@@ -52,6 +52,22 @@
                 imagen="assets/img/zelda/12.jpg"
                 nombre="Link Skyward"
                 precio="470"  />
+            <x-card 
+                imagen="assets/img/zelda/13.jpg"
+                nombre="Link"
+                precio="750"  />
+            <x-card 
+                imagen="assets/img/zelda/14.jpg"
+                nombre="Zora"
+                precio="340"  />
+            <x-card 
+                imagen="assets/img/zelda/15.jpg"
+                nombre="Princesa Zelda "
+                precio="780"  />
+            <x-card 
+                imagen="assets/img/zelda/16.jpg"
+                nombre="Estuata"
+                precio="340"  />
         </div>
     </div>
 </section>

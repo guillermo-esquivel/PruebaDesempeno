@@ -54,6 +54,22 @@
                 imagen="assets/img/Pokemon/12.jpg"
                 nombre="Totodile"
                 precio="890"  />
+            <x-card 
+                imagen="assets/img/Pokemon/13.jpg"
+                nombre="Chimchar"
+                precio="120"  />
+            <x-card 
+                imagen="assets/img/Pokemon/14.jpg"
+                nombre="Scorbunny"
+                precio="600"  />
+            <x-card 
+                imagen="assets/img/Pokemon/15.jpg"
+                nombre="Cubone"
+                precio="930"  />
+            <x-card 
+                imagen="assets/img/Pokemon/16.jpg"
+                nombre="Eevee"
+                precio="390"  />
         </div>
     </div>
 </section>
