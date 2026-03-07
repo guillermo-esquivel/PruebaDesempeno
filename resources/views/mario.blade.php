@@ -16,49 +16,49 @@
                 imagen="assets/img/Mario/marioydestello-amiibo.jpg"
                 nombre="Mario y Destello"
                 precio="750"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura Amiibo de Mario y Destello de Super Mario Galaxy"
             />
 
             <x-card 
                 imagen="assets/img/Mario/luigi-amiibo.jpg"
                 nombre="Luigi"
                 precio="900"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
 
             <x-card 
                 imagen="assets/img/Mario/toad-amiibo.jpg"
                 nombre="Toad"
                 precio="450"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
 
             <x-card 
                 imagen="assets/img/Mario/yoshi-amiibo.jpg"
                 nombre="Yoshi"
                 precio="450"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
 
             <x-card 
                 imagen="assets/img/Mario/bowser-amiibo.jpg"
                 nombre="Bowser"
                 precio="450"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
 
             <x-card 
                 imagen="assets/img/Mario/peach-amiibo.jpg"
-                nombre="Mario Weeding"
+                nombre="Peach"
                 precio="850"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
 
             <x-card 
                 imagen="assets/img/Mario/bowserjr-amiibo.jpg"
-                nombre="Mario Weeding"
+                nombre="Bowser Jr"
                 precio="650"
-                descripcion="Figura Amiibo de Mario Wedding del juego Super Mario Odyssey."
+                descripcion="Figura coleccionable de Super Mario Bros"
             />
         </div>
     </div>
